@@ -1,0 +1,1 @@
+alert("val: " + $("input").val());
